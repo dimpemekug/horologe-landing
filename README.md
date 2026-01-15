@@ -9,7 +9,7 @@ Progettata per presentare l'app con uno stile premium adatto al mondo dell'alta 
 ## ✨ Anteprima Live
 Puoi vedere il sito online qui:
 👉 **https://dimpemekug.github.io/gorologe-landing**
-*(Nota: Se hai cambiato il nome della repository, aggiorna questo link)*
+
 
 ---
 
